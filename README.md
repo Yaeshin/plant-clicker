@@ -4,7 +4,7 @@
 
 ## Demo
 
-[Plant Clicker](https://louis-va.github.io/plant-clicker/)
+[Plant Clicker](https://yaeshin.github.io/plant-clicker/)
 
 ## Projet Description
 
@@ -22,11 +22,9 @@ The primary goal of this project is to use pure JavaScript to collaborate effect
 
 **Development Tools** : Vite, Prettier, ESLint
 
-## Authors and Team Roles
+## Author
 
-- [@Louis Van Aken](https://www.github.com/louis-va) Project Manager - Repository Manager - Designer - Front-End Developper
-- [@Matthieu Gravy](https://www.github.com/matthieuGravy) Front-End Developper - Readme Maintainer
-- [@Célestin Sivixay](https://www.github.com/Yaeshin) Back-End Developper
+- [@Célestin Sivixay](https://www.github.com/Yaeshin)
 
 ## Roadmap
 
@@ -39,7 +37,7 @@ Install from `npm` or `yarn`
 ### Clone Locally
 
 ```bash
->  git clone git@github.com:louis-va/plant-clicker.git
+>  git clone git@github.com:yaeshin/plant-clicker.git
 ```
 
 ### Install with npm
